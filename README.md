@@ -6,8 +6,8 @@ Tracking LeetCode stats for user: **user3012lg**
 | Difficulty | Problems Solved |
 |------------|------------------|
 | Easy       | 41 ✅        |
-| Medium     | 33 🔁      |
+| Medium     | 35 🔁      |
 | Hard       | 2 🔥        |
-| **Total**  | **76** 💯    |
+| **Total**  | **78** 💯    |
 
-_Last updated: 2025-07-31_
+_Last updated: 2025-08-01_
